@@ -1,2 +1,2 @@
 # JavaScript
-One step close for getting my dream company. 
+It's just a beginning
