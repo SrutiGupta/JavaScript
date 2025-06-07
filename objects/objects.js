@@ -33,7 +33,7 @@ console.log(jsuser.greeting)//return function
 
 jsuser.greeting2 = function ()
 {
-    console.log(`Hello js user,${this.name}`)//(this) use for reference same object 
+    console.log(`Hello js user,${this.name}`)//(this) use for reference same object /current context
 
 }
 console.log(jsuser.greeting2())
