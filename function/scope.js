@@ -11,4 +11,35 @@ const b=30//global scope
 }
 console.log(c)*/
 
+//nested function 
 
+function one()
+{
+    const name = "sruti"
+    function two(){
+        const webside ="sruti@gmail.com"
+        console.log(name)
+    }
+    two ()
+}
+one ()
+
+
+//+++++++interesting +++++++
+
+function addone(num)
+{
+    return num+1
+}
+const val=addone(5)
+console.log(val)
+
+//another type of declaring function
+
+const addtwo=function(num)
+{
+    return num+2
+}
+
+console.log(addtwo(2))//but if we print this in upper side it would not be printed 
+//not to use before declaration //hoisting
