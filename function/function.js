@@ -22,7 +22,7 @@ console.log(loginuser("sruti"))
 
 //shopping card 
 
-function calculateprice(...num1)//rest 
+function calculateprice(...num1)//called rest 
 {
     return num1
 }
