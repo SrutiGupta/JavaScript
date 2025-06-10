@@ -1,4 +1,4 @@
-//singlaton
+//singlaton :-not that much use
 // 
 //symbol 
 const sym=Symbol("key1")
