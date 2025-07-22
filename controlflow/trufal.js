@@ -17,3 +17,5 @@ let val1;
 val1=5??10 //5 will be printed
 val1=null??50
 console.log(val1)
+
+
