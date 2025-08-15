@@ -1,6 +1,6 @@
 const array1=["thor","baby"]
 const array2=["All","piku"]
-
+const array3=["Sruti","Gupta"]
 //spread 
 const allvalue=[...array1,...array2]
 console.log(allvalue)
